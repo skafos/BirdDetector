@@ -1,0 +1,16 @@
+PODS:
+  - Skafos (4.0.3)
+
+DEPENDENCIES:
+  - Skafos (~> 4.0.3)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Skafos
+
+SPEC CHECKSUMS:
+  Skafos: 0be2c016d0d0d4532b822b7bc108223758d113de
+
+PODFILE CHECKSUM: 57df0833d7fc8d07d804e8b677898e44d8bdfc4c
+
+COCOAPODS: 1.6.1

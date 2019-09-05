@@ -1,0 +1,6 @@
+framework module Pods_BirdDetector {
+  umbrella header "Pods-BirdDetector-umbrella.h"
+
+  export *
+  module * { export * }
+}

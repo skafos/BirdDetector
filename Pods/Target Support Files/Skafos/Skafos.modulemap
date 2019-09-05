@@ -1,0 +1,6 @@
+framework module Skafos {
+  umbrella header "Skafos-umbrella.h"
+
+  export *
+  module * { export * }
+}
